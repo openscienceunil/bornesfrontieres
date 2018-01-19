@@ -7,7 +7,7 @@ canton du Valais. Ces archives se composent des traités et des procès-verbaux 
 ainsi que des bornes-frontière historiques encore en place sur la limite internationale. 
 
 Il est accessible sur gitub :
-https://ibornes.github.io/bornesfrontieres/#!/document2
+https://ibornes.github.io/bornesfrontieres/
 
 Et sur le web :
 http://www.bornesfrontieres.ch/#!/
