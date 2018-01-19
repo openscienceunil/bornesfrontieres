@@ -290,6 +290,10 @@
     var BFVS14 = new google.maps.LatLng(46.06471, 6.92865);
     var BFVS15 = new google.maps.LatLng(46.06525, 6.92464);
     var BFVS16 = new google.maps.LatLng(46.08698, 6.88883);
+    var BFVS36 = new google.maps.LatLng(46.24969, 6.84580);
+    var BFVS42 = new google.maps.LatLng(46.25931, 6.85449);
+    var BFVS60 = new google.maps.LatLng(46.28000, 6.86493);
+    var BFVS65 = new google.maps.LatLng(46.28634, 6.86061);
 
     var bornes = ["Zéro","BORNE-FRONTIERE n°1","BORNE-FRONTIERE n°2","BORNE-FRONTIERE n°3","BORNE-FRONTIERE n°4","BORNE-FRONTIERE n°5","BORNE-FRONTIERE n°6","BORNE-FRONTIERE n°7","BORNE-FRONTIERE n°8","BORNE-FRONTIERE n°9","BORNE-FRONTIERE n°10","BORNE-FRONTIERE n°11","BORNE-FRONTIERE n°12","BORNE-FRONTIERE n°13","BORNE-FRONTIERE n°14","BORNE-FRONTIERE n°15","BORNE-FRONTIERE n°16"];
     var c_bornes = ["Zéro","CONTRIBUTION BORNE-FRONTIERE n°1","CONTRIBUTION BORNE-FRONTIERE n°2","CONTRIBUTION BORNE-FRONTIERE n°3","CONTRIBUTION BORNE-FRONTIERE n°4","CONTRIBUTION BORNE-FRONTIERE n°5","CONTRIBUTION BORNE-FRONTIERE n°6","CONTRIBUTION BORNE-FRONTIERE n°7","CONTRIBUTION BORNE-FRONTIERE n°8","CONTRIBUTION BORNE-FRONTIERE n°9","CONTRIBUTION BORNE-FRONTIERE n°10","CONTRIBUTION BORNE-FRONTIERE n°11","CONTRIBUTION BORNE-FRONTIERE n°12","CONTRIBUTION BORNE-FRONTIERE n°13","CONTRIBUTION BORNE-FRONTIERE n°14","CONTRIBUTION BORNE-FRONTIERE n°15","CONTRIBUTION BORNE-FRONTIERE n°16"];
@@ -347,21 +351,25 @@
         marker.setMap(map);
 
         var marker1 = new google.maps.Marker({position:BFVS1,url: "#!document1/#myPage",title: "BF001"}); marker1.setMap(map);
-        var marker2 = new google.maps.Marker({position:BFVS2,url: "#border",title: "BF002"}); marker2.setMap(map);
-        var marker3 = new google.maps.Marker({position:BFVS3,url: "#border",title: "BF003"}); marker3.setMap(map);
-        var marker4 = new google.maps.Marker({position:BFVS4,url: "#border",title: "BF004"}); marker4.setMap(map);
-        var marker5 = new google.maps.Marker({position:BFVS5,url: "#border",title: "BF005"}); marker5.setMap(map);
-        var marker6 = new google.maps.Marker({position:BFVS6,url: "#border",title: "BF006"}); marker6.setMap(map);
-        var marker7 = new google.maps.Marker({position:BFVS7,url: "#border",title: "BF007"}); marker7.setMap(map);
-        var marker8 = new google.maps.Marker({position:BFVS8,url: "#border",title: "BF008"}); marker8.setMap(map);
-        var marker9 = new google.maps.Marker({position:BFVS9,url: "#border",title: "BF009"}); marker9.setMap(map);
-        var marker10 = new google.maps.Marker({position:BFVS10,url: "#border",title: "BF010"}); marker10.setMap(map);
-        var marker11 = new google.maps.Marker({position:BFVS11,url: "#border",title: "BF011"}); marker11.setMap(map);
-        var marker12 = new google.maps.Marker({position:BFVS12,url: "#border",title: "BF012"}); marker12.setMap(map);
+        var marker2 = new google.maps.Marker({position:BFVS2,url: "#!document1/#myPage",title: "BF002"}); marker2.setMap(map);
+        var marker3 = new google.maps.Marker({position:BFVS3,url: "#!document1/#myPage",title: "BF003"}); marker3.setMap(map);
+        var marker4 = new google.maps.Marker({position:BFVS4,url: "#!document1/#myPage",title: "BF004"}); marker4.setMap(map);
+        var marker5 = new google.maps.Marker({position:BFVS5,url: "#!document1/#myPage",title: "BF005"}); marker5.setMap(map);
+        var marker6 = new google.maps.Marker({position:BFVS6,url: "#!document1/#myPage",title: "BF006"}); marker6.setMap(map);
+        var marker7 = new google.maps.Marker({position:BFVS7,url: "#!document1/#myPage",title: "BF007"}); marker7.setMap(map);
+        var marker8 = new google.maps.Marker({position:BFVS8,url: "#!document1/#myPage",title: "BF008"}); marker8.setMap(map);
+        var marker9 = new google.maps.Marker({position:BFVS9,url: "#!document1/#myPage",title: "BF009"}); marker9.setMap(map);
+        var marker10 = new google.maps.Marker({position:BFVS10,url: "#!document1/#myPage",title: "BF010"}); marker10.setMap(map);
+        var marker11 = new google.maps.Marker({position:BFVS11,url: "#!document1/#myPage",title: "BF011"}); marker11.setMap(map);
+        var marker12 = new google.maps.Marker({position:BFVS12,url: "#!document2/#myPage",title: "BF012"}); marker12.setMap(map);
         var marker13 = new google.maps.Marker({position:BFVS13,url: "#!document3/#myPage",title: "BF013"}); marker13.setMap(map);
-        var marker14 = new google.maps.Marker({position:BFVS14,url: "#border",title: "BF014"}); marker14.setMap(map);
-        var marker15 = new google.maps.Marker({position:BFVS15,url: "#border",title: "BF015"}); marker15.setMap(map);
-        var marker16 = new google.maps.Marker({position:BFVS16,url: "#border",title: "BF016"}); marker16.setMap(map);
+        var marker14 = new google.maps.Marker({position:BFVS14,url: "#!document3/#myPage",title: "BF014"}); marker14.setMap(map);
+        var marker15 = new google.maps.Marker({position:BFVS15,url: "#!document3/#myPage",title: "BF015"}); marker15.setMap(map);
+        var marker16 = new google.maps.Marker({position:BFVS16,url: "#!document3/#myPage",title: "BF016"}); marker16.setMap(map);
+        var marker36 = new google.maps.Marker({position:BFVS36,url: "#!document4/#myPage",title: "BF016"}); marker36.setMap(map);
+        var marker42 = new google.maps.Marker({position:BFVS42,url: "#!document4/#myPage",title: "BF016"}); marker42.setMap(map);
+        var marker60 = new google.maps.Marker({position:BFVS60,url: "#!document4/#myPage",title: "BF016"}); marker60.setMap(map);
+        var marker65 = new google.maps.Marker({position:BFVS65,url: "#!document5/#myPage",title: "BF016"}); marker65.setMap(map);
 
         function gestion_borne(){
             numero_b_sel = document.getElementById("borne_num");
@@ -380,7 +388,7 @@
             z4 = document.getElementById("detail4");
         }
 
-        google.maps.event.addDomListener(marker1, 'click', function() {window.location.href = marker1.url;gestion_borne();numero_b_sel.innerHTML=bornes[1];x1.setAttribute("src",bornes_photos[1]);x2.setAttribute("src",bornes_photos[2]);x3.setAttribute("src",bornes_photos[3]);x4.setAttribute("src",bornes_photos[4]);y1.innerHTML=bornes_det[1];y2.innerHTML=bornes_det[1];y3.innerHTML=bornes_det[1];y4.innerHTML=bornes_det[5];z1.innerHTML=bornes_detdet[1];z2.innerHTML=bornes_detdet[2];z3.innerHTML=bornes_detdet[3];z4.innerHTML=bornes_detdet[4];numero_b_contr.innerHTML=c_bornes[1];});
+        google.maps.event.addDomListener(marker1, 'click', function() {window.location.href = marker1.url;});
         google.maps.event.addDomListener(marker2, 'click', function() {window.location.href = marker2.url;gestion_borne();numero_b_sel.innerHTML=bornes[2];x1.setAttribute("src",bornes_photos[5]);x2.setAttribute("src",bornes_photos[6]);x3.setAttribute("src",bornes_photos[7]);x4.setAttribute("src",bornes_photos[8]);y1.innerHTML=bornes_det[2];y2.innerHTML=bornes_det[5];y3.innerHTML=bornes_det[2];y4.innerHTML=bornes_det[2];z1.innerHTML=bornes_detdet[5];z2.innerHTML=bornes_detdet[6];z3.innerHTML=bornes_detdet[7];z4.innerHTML=bornes_detdet[8];numero_b_contr.innerHTML=c_bornes[2];});
         google.maps.event.addDomListener(marker3, 'click', function() {window.location.href = marker3.url;gestion_borne();numero_b_sel.innerHTML=bornes[3];x1.setAttribute("src",bornes_photos[9]);x2.setAttribute("src",bornes_photos[10]);x3.setAttribute("src",bornes_photos[11]);x4.setAttribute("src",bornes_photos[12]);y1.innerHTML=bornes_det[2];y2.innerHTML=bornes_det[2];y3.innerHTML=bornes_det[2];y4.innerHTML=bornes_det[2];z1.innerHTML=bornes_detdet[9];z2.innerHTML=bornes_detdet[10];z3.innerHTML=bornes_detdet[11];z4.innerHTML=bornes_detdet[12];numero_b_contr.innerHTML=c_bornes[3];});
         google.maps.event.addDomListener(marker4, 'click', function() {window.location.href = marker4.url;gestion_borne();numero_b_sel.innerHTML=bornes[4];x1.setAttribute("src",bornes_photos[13]);x2.setAttribute("src",bornes_photos[14]);x3.setAttribute("src",bornes_photos[15]);x4.setAttribute("src",bornes_photos[16]);y1.innerHTML=bornes_det[3];y2.innerHTML=bornes_det[3];y3.innerHTML=bornes_det[3];y4.innerHTML=bornes_det[3];z1.innerHTML=bornes_detdet[13];z2.innerHTML=bornes_detdet[14];z3.innerHTML=bornes_detdet[15];z4.innerHTML=bornes_detdet[16];numero_b_contr.innerHTML=c_bornes[4];});
@@ -396,6 +404,10 @@
         google.maps.event.addDomListener(marker14, 'click', function() {window.location.href = marker14.url;gestion_borne();numero_b_sel.innerHTML=bornes[14];x1.setAttribute("src",bornes_photos[53]);x2.setAttribute("src",bornes_photos[54]);x3.setAttribute("src",bornes_photos[55]);x4.setAttribute("src",bornes_photos[56]);y1.innerHTML=bornes_det[9];y2.innerHTML=bornes_det[9];y3.innerHTML=bornes_det[10];y4.innerHTML=bornes_det[9];z1.innerHTML=bornes_detdet[53];z2.innerHTML=bornes_detdet[54];z3.innerHTML=bornes_detdet[55];z4.innerHTML=bornes_detdet[56];numero_b_contr.innerHTML=c_bornes[14];});
         google.maps.event.addDomListener(marker15, 'click', function() {window.location.href = marker15.url;gestion_borne();numero_b_sel.innerHTML=bornes[15];x1.setAttribute("src",bornes_photos[57]);x2.setAttribute("src",bornes_photos[58]);x3.setAttribute("src",bornes_photos[59]);x4.setAttribute("src",bornes_photos[60]);y1.innerHTML=bornes_det[12];y2.innerHTML=bornes_det[12];y3.innerHTML=bornes_det[12];y4.innerHTML=bornes_det[12];z1.innerHTML=bornes_detdet[57];z2.innerHTML=bornes_detdet[58];z3.innerHTML=bornes_detdet[59];z4.innerHTML=bornes_detdet[60];numero_b_contr.innerHTML=c_bornes[15];});
         google.maps.event.addDomListener(marker16, 'click', function() {window.location.href = marker16.url;gestion_borne();numero_b_sel.innerHTML=bornes[16];x1.setAttribute("src",bornes_photos[61]);x2.setAttribute("src",bornes_photos[62]);x3.setAttribute("src",bornes_photos[63]);x4.setAttribute("src",bornes_photos[64]);y1.innerHTML=bornes_det[2];y2.innerHTML=bornes_det[2];y3.innerHTML=bornes_det[2];y4.innerHTML=bornes_det[13];z1.innerHTML=bornes_detdet[61];z2.innerHTML=bornes_detdet[62];z3.innerHTML=bornes_detdet[63];z4.innerHTML=bornes_detdet[64];numero_b_contr.innerHTML=c_bornes[16];});
+        google.maps.event.addDomListener(marker1, 'click', function() {window.location.href = marker36.url;});
+        google.maps.event.addDomListener(marker1, 'click', function() {window.location.href = marker42.url;});
+        google.maps.event.addDomListener(marker1, 'click', function() {window.location.href = marker60.url;});
+        google.maps.event.addDomListener(marker1, 'click', function() {window.location.href = marker65.url;});
     }
     google.maps.event.addDomListener(window, 'load', initialize);
 
