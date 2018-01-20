@@ -16,15 +16,17 @@ Principales fonctions :
 1. Accueil et information: organisation du site autour de six archives et de leurs transcriptions
 ![info](doc/info.JPG)
 
-2. Accès aux six archives par click sur le document désiré (par exemple Région col de Balme 1738)
+2. Accès aux six archives par click sur le document désiré (par exemple "Région col de Balme 1738")
 ![archives](doc/archives.JPG)
 
 3. Accès aux archives soit : 
     (A) Archive transcrite à télécharger ou (en dessous) archive transcrite avec hover et liens
     (B) Carrousel de photos des bornes historiques concernées
-    et (C) Carrousel des documents d'archive en haute définition
+    et (C) Carrousel des documents d'archive en haute définition (ouvert plus bas sur toute la largeur de page)
 ![transcriptions](doc/transcriptions.JPG)
 
-4. Accès aux archives à travers un click sur l'emplacement des bornes-frontière sur une carte topographique
+4. Accès aux archives (autre possibilité) par un click sur le marqueur d'une borne-frontière sur la carte topographique
 ![carte](doc/carte.JPG)
+
+Belle découverte !
 __________________________________________________________________________________________________________
