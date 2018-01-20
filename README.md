@@ -19,7 +19,7 @@ Principales fonctions :
 2. Accès aux six archives par click sur le document désiré (par exemple Région col de Balme 1738)
 ![archives](doc/archives.JPG)
 
-3. Accès aux archives transcrites, carrousel de photos (bornes et archives) soit
+3. Accès aux archives soit : 
     (A) Archive transcrite à télécharger ou (en dessous) archive transcrite avec hover et liens
     (B) Carrousel de photos des bornes historiques concernées
     et (C) Carrousel des documents d'archive en haute définition
