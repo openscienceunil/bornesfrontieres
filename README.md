@@ -14,6 +14,8 @@ http://www.bornesfrontieres.ch/#!/
 
 Principales fonctions :
 1. Information: organisation du site autour de six archives et de leurs transcriptions
+![info](doc/info.JPG)
+
 2. Accès aux six archives par click sur le document désiré
 3. Accès aux archives transcrites, carrousel de photos (bornes et archives) soit
     (A) Archives transcrites avec liens et hover
@@ -21,5 +23,4 @@ Principales fonctions :
     et (C) Télécharchement possible des archives transcrites (PDF)
 4. Accès aux archives à travers un click sur l'emplacement des bornes-frontière sur une carte topographique
 
-  
 __________________________________________________________________________________________________________
