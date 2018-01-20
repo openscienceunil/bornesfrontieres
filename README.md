@@ -17,14 +17,14 @@ Principales fonctions :
 ![info](doc/info.JPG)
 
 2. Accès aux six archives par click sur le document désiré
-![info](doc/archives.JPG)
+![archives](doc/archives.JPG)
 
 3. Accès aux archives transcrites, carrousel de photos (bornes et archives) soit
     (A) Archives transcrites avec liens et hover
     (B) Carrousel d’archive (haute définition)
     et (C) Télécharchement possible des archives transcrites (PDF)
-![info](doc/transcriptions.JPG)
+![transcriptions](doc/transcriptions.JPG)
 
 4. Accès aux archives à travers un click sur l'emplacement des bornes-frontière sur une carte topographique
-![info](doc/carte.JPG)
+![carte](doc/carte.JPG)
 __________________________________________________________________________________________________________
