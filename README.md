@@ -13,16 +13,16 @@ Ou sur le web à l'adresse suivante :
 http://www.bornesfrontieres.ch/#!/
 
 Principales fonctions :
-1. Information: organisation du site autour de six archives et de leurs transcriptions
+1. Accueil et information: organisation du site autour de six archives et de leurs transcriptions
 ![info](doc/info.JPG)
 
-2. Accès aux six archives par click sur le document désiré
+2. Accès aux six archives par click sur le document désiré (par exemple Région col de Balme 1738)
 ![archives](doc/archives.JPG)
 
 3. Accès aux archives transcrites, carrousel de photos (bornes et archives) soit
-    (A) Archives transcrites avec liens et hover
-    (B) Carrousel d’archive (haute définition)
-    et (C) Télécharchement possible des archives transcrites (PDF)
+    (A) Archive transcrite à télécharger ou (en dessous) archive transcrite avec hover et liens
+    (B) Carrousel de photos des bornes historiques concernées
+    et (C) Carrousel des documents d'archive en haute définition
 ![transcriptions](doc/transcriptions.JPG)
 
 4. Accès aux archives à travers un click sur l'emplacement des bornes-frontière sur une carte topographique
