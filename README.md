@@ -16,9 +16,10 @@ Principales fonctions :
 1. Information: organisation du site autour de six archives et de leurs transcriptions
 2. Accès aux six archives par click sur le document désiré
 3. Accès aux archives transcrites, carrousel de photos (bornes et archives) soit
-    A) Archives transcrites avec liens et hover
-    B) Carrousel d’archive (haute définition)
-    C) Télécharchement possible des archive transcrites (PDF)
-4. Accès aux archives à travers l'emplacement des bornes-frontière sur une carte topographique
+    (A) Archives transcrites avec liens et hover
+    (B) Carrousel d’archive (haute définition)
+    et (C) Télécharchement possible des archives transcrites (PDF)
+4. Accès aux archives à travers un click sur l'emplacement des bornes-frontière sur une carte topographique
+
   
 __________________________________________________________________________________________________________
