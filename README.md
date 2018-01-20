@@ -1,22 +1,24 @@
 # bornesfrontieres
 __________________________________________________________________________________________________________
-Archives du XVIIIe siècle de la mise en place de la frontière franco-valaisanne (alors sabaudo-valaisanne)
+Archives du XVIIIe siècle sur la mise en place de la frontière franco-valaisanne (alors sabaudo-valaisanne)
 __________________________________________________________________________________________________________
 Ce site web vous propose un voyage dans les archives de la mise en place des frontières du
 canton du Valais. Ces archives se composent des traités et des procès-verbaux d’abornement
 ainsi que des bornes-frontière historiques encore en place sur la limite internationale. 
 
-Il est accessible sur gitub :
+Le site est accessible sur gitub :
 https://ibornes.github.io/bornesfrontieres/
 
-Et sur le web :
+Ou sur le web à l'adresse suivante :
 http://www.bornesfrontieres.ch/#!/
 
 Principales fonctions :
 1. Information: organisation du site autour de six archives et de leurs transcriptions
 2. Accès aux six archives par click sur le document désiré
-3. Accès aux archives transcrites, carrousel de photos (bornes et archives)
-3.1 Archives transcrites avec liens et hover
-3.2 Carrousel d’archive (haute définition)
-4. Carte de l'emplacement des bornes-frontière avec liens vers les archives correspondantes  
+3. Accès aux archives transcrites, carrousel de photos (bornes et archives) soit
+    A) Archives transcrites avec liens et hover
+    B) Carrousel d’archive (haute définition)
+    C) Télécharchement possible des archive transcrites (PDF)
+4. Accès aux archives à travers l'emplacement des bornes-frontière sur une carte topographique
+  
 __________________________________________________________________________________________________________
