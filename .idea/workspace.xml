@@ -20,7 +20,7 @@
       <file leaf-file-name="index.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
+            <state relative-caret-position="6409">
               <caret line="377" column="0" lean-forward="false" selection-start-line="377" selection-start-column="0" selection-end-line="377" selection-end-column="0" />
               <folding />
             </state>
@@ -30,7 +30,7 @@
       <file leaf-file-name="document1.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/document1.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
+            <state relative-caret-position="4420">
               <caret line="260" column="40" lean-forward="false" selection-start-line="260" selection-start-column="19" selection-end-line="260" selection-end-column="57" />
               <folding />
             </state>
@@ -40,7 +40,7 @@
       <file leaf-file-name="document3.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/document3.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3120">
+            <state relative-caret-position="2975">
               <caret line="175" column="110" lean-forward="false" selection-start-line="175" selection-start-column="110" selection-end-line="175" selection-end-column="110" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#p#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -58,7 +58,7 @@
       <file leaf-file-name="document2.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/document2.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-744">
+            <state relative-caret-position="3043">
               <caret line="179" column="0" lean-forward="false" selection-start-line="179" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
               <folding />
             </state>
@@ -68,7 +68,7 @@
       <file leaf-file-name="document4.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/document4.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
+            <state relative-caret-position="4862">
               <caret line="286" column="38" lean-forward="false" selection-start-line="286" selection-start-column="19" selection-end-line="286" selection-end-column="57" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#p#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -81,7 +81,7 @@
       <file leaf-file-name="document5.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/document5.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6384">
+            <state relative-caret-position="4522">
               <caret line="266" column="38" lean-forward="false" selection-start-line="266" selection-start-column="38" selection-end-line="266" selection-end-column="38" />
               <folding />
             </state>
@@ -91,7 +91,7 @@
       <file leaf-file-name="document6.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/document6.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-294">
+            <state relative-caret-position="4420">
               <caret line="260" column="893" lean-forward="false" selection-start-line="260" selection-start-column="893" selection-end-line="260" selection-end-column="893" />
               <folding />
             </state>
@@ -102,8 +102,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="510">
-                <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+              <first_editor relative-caret-position="136">
+                <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -137,8 +137,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
-    <option name="y" value="132" />
+    <option name="x" value="-55" />
+    <option name="y" value="74" />
     <option name="width" value="1700" />
     <option name="height" value="980" />
   </component>
@@ -157,8 +157,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,7 +215,8 @@
       <workItem from="1516310088990" duration="779000" />
       <workItem from="1516310883191" duration="404000" />
       <workItem from="1516383408027" duration="6836000" />
-      <workItem from="1516432919955" duration="12443000" />
+      <workItem from="1516432919955" duration="13049000" />
+      <workItem from="1516725592151" duration="786000" />
     </task>
     <task id="LOCAL-00001" summary="Created Webstorm project">
       <created>1516310325871</created>
@@ -336,14 +337,21 @@
       <option name="project" value="LOCAL" />
       <updated>1516446660935</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="update doc">
+      <created>1516451215853</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1516451215853</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20462000" />
+    <option name="totallyTimeSpent" value="21854000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="132" width="1700" height="980" extended-state="0" />
+    <frame x="-55" y="74" width="1700" height="980" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18824229" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -384,6 +392,84 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6409">
+          <caret line="377" column="0" lean-forward="false" selection-start-line="377" selection-start-column="0" selection-end-line="377" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document1.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4420">
+          <caret line="260" column="40" lean-forward="false" selection-start-line="260" selection-start-column="19" selection-end-line="260" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document3.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2975">
+          <caret line="175" column="110" lean-forward="false" selection-start-line="175" selection-start-column="110" selection-end-line="175" selection-end-column="110" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#p#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#span#0;n#a#5;n#p#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#span#0;n#a#6;n#p#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#span#0;n#a#7;n#p#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#li#0;n#ol#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#li#1;n#ol#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#li#2;n#ol#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document2.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3043">
+          <caret line="179" column="0" lean-forward="false" selection-start-line="179" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document4.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4862">
+          <caret line="286" column="38" lean-forward="false" selection-start-line="286" selection-start-column="19" selection-end-line="286" selection-end-column="57" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#p#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#span#0;n#a#1;n#p#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document6.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4420">
+          <caret line="260" column="893" lean-forward="false" selection-start-line="260" selection-start-column="893" selection-end-line="260" selection-end-column="893" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document5.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4522">
+          <caret line="266" column="38" lean-forward="false" selection-start-line="266" selection-start-column="38" selection-end-line="266" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="510">
+            <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4148">
@@ -467,7 +553,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/document1.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
+        <state relative-caret-position="4420">
           <caret line="260" column="40" lean-forward="false" selection-start-line="260" selection-start-column="19" selection-end-line="260" selection-end-column="57" />
           <folding />
         </state>
@@ -475,7 +561,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/document2.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-744">
+        <state relative-caret-position="3043">
           <caret line="179" column="0" lean-forward="false" selection-start-line="179" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
           <folding />
         </state>
@@ -483,7 +569,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/document4.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
+        <state relative-caret-position="4862">
           <caret line="286" column="38" lean-forward="false" selection-start-line="286" selection-start-column="19" selection-end-line="286" selection-end-column="57" />
           <folding>
             <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#p#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -494,7 +580,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/document5.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6384">
+        <state relative-caret-position="4522">
           <caret line="266" column="38" lean-forward="false" selection-start-line="266" selection-start-column="38" selection-end-line="266" selection-end-column="38" />
           <folding />
         </state>
@@ -502,7 +588,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/document6.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-294">
+        <state relative-caret-position="4420">
           <caret line="260" column="893" lean-forward="false" selection-start-line="260" selection-start-column="893" selection-end-line="260" selection-end-column="893" />
           <folding />
         </state>
@@ -510,7 +596,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/document3.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3120">
+        <state relative-caret-position="2975">
           <caret line="175" column="110" lean-forward="false" selection-start-line="175" selection-start-column="110" selection-end-line="175" selection-end-column="110" />
           <folding>
             <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#p#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -526,7 +612,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
+        <state relative-caret-position="6409">
           <caret line="377" column="0" lean-forward="false" selection-start-line="377" selection-start-column="0" selection-end-line="377" selection-end-column="0" />
           <folding />
         </state>
@@ -535,8 +621,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="510">
-            <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
             <folding />
           </first_editor>
           <second_editor />

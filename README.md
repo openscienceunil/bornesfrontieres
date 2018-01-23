@@ -5,6 +5,8 @@ ________________________________________________________________________________
 Ce site web vous propose un voyage dans les archives de la mise en place des frontières du
 canton du Valais. Ces archives se composent des traités et des procès-verbaux d’abornement
 ainsi que des bornes-frontière historiques encore en place sur la limite internationale. 
+Cette application a été réalisée par Olivier CAVALERI dans le cadre du cours de Master 
+Publication numérique de l'UNIL (Université de Lausanne) sous la supervision d'Isaac PANTE.
 
 Le site est accessible sur gitub :
 https://ibornes.github.io/bornesfrontieres/
